@@ -1,0 +1,6 @@
+c:\users\tenecia\documents\visual studio 2013\Projects\DoNotuseMidTerm\DoNotuseMidTerm\bin\Debug\DoNotuseMidTerm.exe.config
+c:\users\tenecia\documents\visual studio 2013\Projects\DoNotuseMidTerm\DoNotuseMidTerm\obj\Debug\DoNotuseMidTerm.csprojResolveAssemblyReference.cache
+c:\users\tenecia\documents\visual studio 2013\Projects\DoNotuseMidTerm\DoNotuseMidTerm\bin\Debug\DoNotuseMidTerm.exe
+c:\users\tenecia\documents\visual studio 2013\Projects\DoNotuseMidTerm\DoNotuseMidTerm\bin\Debug\DoNotuseMidTerm.pdb
+c:\users\tenecia\documents\visual studio 2013\Projects\DoNotuseMidTerm\DoNotuseMidTerm\obj\Debug\DoNotuseMidTerm.exe
+c:\users\tenecia\documents\visual studio 2013\Projects\DoNotuseMidTerm\DoNotuseMidTerm\obj\Debug\DoNotuseMidTerm.pdb
